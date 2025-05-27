@@ -5,7 +5,7 @@ This repository contains the code and data for the research paper:
 
 "Anomaly Detection in Load Forecasting Using ARIMA and Autoencoder" 
 Authors: Arun Abhishek I, Dafinny Thanigaivel  
-Published in the **2023 IEEE Fifth International Conference on Advances in Electronics, Computers and Communications (ICAECC)** — [Paper PDF](./Anomaly_detection_in_load_forecasting_using_ARIMA_and_Autoencoder.pdf)
+Published in the **2023 IEEE Fifth International Conference on Advances in Electronics, Computers and Communications (ICAECC)** — [Paper PDF](Anomaly_detection_in_load_forecasting_using_ARIMA_and_Autoencoder copy.pdf)
 
 ---
 
